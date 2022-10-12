@@ -1,5 +1,6 @@
 import math
 import os
+os.system('git pull')
 os.system('clear||cls')
 print("Сила:\nF;a;m1")
 print("Плотность:\nV;Ro;m2")
