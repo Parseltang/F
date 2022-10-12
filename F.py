@@ -1,8 +1,8 @@
 import math
 import os
 os.system('clear||cls')
-print("a;F;m1")
-print("V;Ro;m2)")
+print("Сила:\nF;a;m1")
+print("Плотность:\nV;Ro;m2")
 Formula = input("Что найти?:")
 #F a m
 if Formula == "a":
